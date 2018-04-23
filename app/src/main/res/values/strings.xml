@@ -1,0 +1,82 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QuizAPP</string>
+    <string name="question">is the capital of:</string>
+    <string name="riga">Riga is the capital of:</string>
+    <string name="lativa">Lativa</string>
+    <string name="tallin">Tallinn is the capital of:</string>
+    <string name="estonia">Estonia</string>
+    <string name="abudhabi">Abu Dhabi is the capital of:</string>
+    <string name="uae">United Arab Emirates</string>
+    <string name="accra">Accra is the capital of:</string>
+    <string name="ghana">Ghana</string>
+    <string name="amman">Amman is the capital of:</string>
+    <string name="jordan">Jordan</string>
+    <string name="budapest">Budabest is the capital of:</string>
+    <string name="hungary">Hungary</string>
+    <string name="dublin">Dublin is the capital of:</string>
+    <string name="ireland">Ireland</string>
+    <string name="wellington">Wellington is the capital of:</string>
+    <string name="newzealand">New zealand</string>
+    <string name="lisbon">Lisbon is the capital of:</string>
+    <string name="portugal">Portugal</string>
+    <string name="santiago">Santiago is the capital of:</string>
+    <string name="chile">Chile</string>
+    <string name="taipie">Taipie is the capital of:</string>
+    <string name="Taiwan">Taiwan</string>
+    <string name="lima">Lima is the capital of:</string>
+    <string name="peru">Peru</string>
+    <string name="khartoum">Khartoum is the capital of:</string>
+    <string name="yaounde">Yaoundi is the capital of:</string>
+    <string name="cameron">Cameron</string>
+    <string name="bern">Bern is the capital of:</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="sofia">Sofia is the capital of:</string>
+    <string name="bulgaria">Bulgaria</string>
+    <string name="japan">Japan</string>
+    <string name="yemen">Yemen</string>
+    <string name="senegal">Senegal</string>
+    <string name="syria">Syria</string>
+    <string name="norway">Norway</string>
+    <string name="slovenia">Slovenia</string>
+    <string name="cambodia">Cambodia</string>
+    <string name="thailand">Thailand</string>
+    <string name="bangkok">Bangkok</string>
+    <string name="malysia">Malysia</string>
+    <string name="sudan">Sudan</string>
+    <string name="china">China</string>
+    <string name="costarica">Costa Rica</string>
+    <string name="egypt">Egypt</string>
+    <string name="result">your result will be shown soon</string>
+    <string name="reset">Quiz will reset</string>
+    <string name="rightanswers">here is the right answers</string>
+
+    <string name="examiner_name"> NAME : <xliff:g example="hesham" id="name">%s</xliff:g></string>
+    <string name="score"> score :  <xliff:g example="hesham" id="name">%d out of 10</xliff:g></string>
+    <string name="thank_you">thank you for using quiz app</string>
+    <string name="retry_quiz">retry quiz</string>
+    <string name="get_result">get result</string>
+    <string name="show_answer">right Ans.</string>
+    <string name="enter_name">PLZ enter your name here</string>
+    <string name="world_map">world map</string>
+    <string name="about">Simple app build to test your knowledge about countries and capitals the rules is very simple : \n
+      - Quiz consist of 10 question \n
+        - choose the right answer from 4 answers \n
+        - Every right answer you win 1 point \n
+        - Click on (Get result) button to get your result \n
+        - (Retry quiz) button to clear your old answers \n
+        - (show right answers) button to show the right answers  \n
+    </string>
+    <string name="title">countries and capitals quiz</string>
+    <string name="about_title">About the App :</string>
+    <string name="start_quiz">start quiz</string>
+    <string name="name">NAME :</string>
+    <string name="error"> Plz enter your name first </string>
+    <string name="main_title">Quiz App</string>
+    <string name="Tokyo">Tokyo is the capital of :</string>
+    <string name="answer">Type your answer here</string>
+    <string name="spain">Which of these cities located in spain :</string>
+    <string name="madrid">Madrid</string>
+    <string name="granada">Granada</string>
+    <string name="stutgart">Stutgart</string>
+    <string name="lisbon_city">Lisbon</string>
+</resources>
